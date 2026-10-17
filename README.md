@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi%2C+I'm+Ravitej+Manu+%F0%9F%91%8B;Full-Stack+%26+Applied+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi%2C+I'm+Ravitej+%F0%9F%91%8B;Full-Stack+%26+Applied+AI+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ravitej555.Ravitej555&left_text=Profile%20Views&left_color=181717&right_color=58a6ff&radius=0" alt="Profile Views" />
