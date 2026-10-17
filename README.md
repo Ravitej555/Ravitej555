@@ -2,17 +2,27 @@
 
 <div align="center">
 
-# Hi, I'm Ravitej Manu 👋
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hi%2C+I'm+Ravitej+Manu+%F0%9F%91%8B;Full-Stack+%26+Applied+AI+Engineer)](https://git.io/typing-svg)
 
-### Software Engineer | Full-Stack & Applied AI Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravitej555&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Ravitej555?label=Followers&style=flat-square&color=58A6FF" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Ravitej555?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=a371f7&label=Stars" alt="stars" />
+</p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Ravitej555&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Ravitej555)
-[![GitHub followers](https://img.shields.io/github/followers/Ravitej555?label=Followers&style=flat&color=0e75b6)](https://github.com/Ravitej555?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Ravitej555?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6)](https://github.com/Ravitej555?tab=repositories)
+<p align="center">
+Building high-impact applications across <b>interactive 3D web systems</b>, <b>applied machine learning</b>, and <b>cybersecurity triage</b>.
+</p>
 
-Building practical, high-impact applications across **interactive 3D web systems**, **applied machine learning**, and **cybersecurity triage**.
-
-[Explore Projects](https://github.com/Ravitej555?tab=repositories) · [Featured Projects](#-featured-projects) · [Activity & Stats](#-github-activity) · [Connect](#-connect)
+<p align="center">
+  <a href="https://github.com/Ravitej555?tab=repositories">🗂 Explore Projects</a> &nbsp;·&nbsp;
+  <a href="#-featured-projects">🚀 Featured Work</a> &nbsp;·&nbsp;
+  <a href="#-github-activity">📈 Stats</a> &nbsp;·&nbsp;
+  <a href="#-connect">📫 Connect</a>
+</p>
 
 </div>
 
@@ -20,13 +30,15 @@ Building practical, high-impact applications across **interactive 3D web systems
 
 ## 👨‍💻 About Me
 
-I am a software engineer focused on building robust full-stack applications, interactive 3D web interfaces, and applied AI tools that solve real-world problems. My recent work focuses on integrating client-side 3D graphics (Three.js) with explainable machine learning models, as well as developing security-oriented analysis pipelines.
+I'm a software engineer building robust full-stack applications, interactive 3D web interfaces, and applied AI tools that solve real-world problems. My focus is on integrating client-side 3D graphics (**Three.js**) with explainable ML models, and developing security-oriented analysis pipelines.
 
-- 🔭 **Currently Building:** 3D interactive medical diagnostics systems, AI file analysis tools, and utility-based comparison engines.
-- 🌱 **Core Stack:** TypeScript, Next.js, Three.js, Python, FastAPI, and Applied Machine Learning.
-- 🧠 **Interests:** Explainable AI (XAI), 3D Web Graphics, Threat & Indicator Detection, and Scalable Cloud Architectures.
-- 🤝 **Open For:** Meaningful open-source collaborations and innovative software engineering projects.
-- 💬 **Ask Me About:** TypeScript, React, Next.js, Python, FastAPI, Docker, and Three.js.
+|  |  |
+|---|---|
+| 🔭 **Currently Building** | 3D interactive medical diagnostics, AI file analysis tools, and utility-based comparison engines |
+| 🌱 **Core Stack** | TypeScript · Next.js · Three.js · Python · FastAPI · Applied ML |
+| 🧠 **Interests** | Explainable AI (XAI) · 3D Web Graphics · Threat Detection · Scalable Cloud Architectures |
+| 🤝 **Open For** | Meaningful open-source collaborations and innovative engineering projects |
+| 💬 **Ask Me About** | TypeScript · React · Next.js · Python · FastAPI · Docker · Three.js |
 
 ---
 
@@ -34,7 +46,8 @@ I am a software engineer focused on building robust full-stack applications, int
 
 <div align="center">
 
-### Languages & Frontend
+**Languages & Frontend**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,7 +57,8 @@ I am a software engineer focused on building robust full-stack applications, int
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend, AI & Security
+**Backend, AI & Security**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,7 +66,8 @@ I am a software engineer focused on building robust full-stack applications, int
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Tools
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,49 +79,66 @@ I am a software engineer focused on building robust full-stack applications, int
 
 ## 🚀 Featured Projects
 
-### 🏥 [Smart Health Advisory System (HealthLens AI)](https://github.com/Ravitej555/cnrproject-)
-> **AI-Assisted Health Risk Assessment with Interactive 3D Human Anatomy Visualization**
-> 
-> [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=flat-square&logo=github)](https://ravitej555.github.io/cnrproject-/)
-> [![Next.js App](https://img.shields.io/badge/Repository-HealthLens%20AI-0e75b6?style=flat-square&logo=github)](https://github.com/Ravitej555/smart-health-repo2)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Interactive 3D Anatomy:** Features a full Three.js 3D anatomy simulator with GLB organ & skeleton models, layer toggling, organ inspection, and search across 200+ anatomical parts.
-- **Explainable AI Risk Engine:** Connects vitals, AQI, lifestyle, and symptoms into a transparent, multi-factor scoring model.
-- **3D AI Highlighting & Focus:** Dynamically focuses camera on affected organs and applies risk-color illumination.
-- *Tech Stack:* Three.js, React, Next.js, TypeScript, Tailwind CSS, Explainable AI.
+### 🏥 HealthLens AI
+> **AI-Assisted Health Risk Assessment with Interactive 3D Human Anatomy**
 
----
+[![Repo](https://img.shields.io/badge/Repo-HealthLens%20AI-58A6FF?style=flat-square&logo=github)](https://github.com/Ravitej555/smart-health-repo2)
+[![Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=flat-square&logo=github)](https://ravitej555.github.io/cnrproject-/)
 
-### 🛡️ [ThreadLens AI — Malware Analysis Platform](https://github.com/Ravitej555/threadlens-AI)
+- 🫀 Full **Three.js 3D anatomy simulator** with GLB organ & skeleton models, layer toggling, organ inspection, and 200+ anatomical parts
+- 🧠 **Explainable AI Risk Engine** — vitals, AQI, lifestyle, and symptoms into a transparent multi-factor scoring model
+- 🎯 **3D AI Highlighting** — dynamically focuses camera on affected organs with risk-color illumination
+
+`Three.js` `React` `Next.js` `TypeScript` `Tailwind CSS` `XAI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ ThreadLens AI
 > **AI-Assisted Cybersecurity Platform for Automated File Triage & Indicator Detection**
-> 
-> [![Repository](https://img.shields.io/badge/Repository-ThreadLens%20AI-0e75b6?style=flat-square&logo=github)](https://github.com/Ravitej555/threadlens-AI)
 
-- **Automated Triage Pipeline:** Extracts file entropy, hashes, suspicious strings, and heuristic indicators.
-- **Machine Learning Classification:** Uses decision-tree modeling for malware classification, confidence estimation, and actionable mitigation guidance.
-- **Production-Ready Architecture:** High-throughput FastAPI backend with asynchronous processing and Dockerized deployment.
-- *Tech Stack:* Python, FastAPI, Scikit-Learn, Docker, REST API.
+[![Repo](https://img.shields.io/badge/Repo-ThreadLens%20AI-58A6FF?style=flat-square&logo=github)](https://github.com/Ravitej555/threadlens-AI)
 
----
+- 🔍 **Automated Triage Pipeline** — file entropy, hashes, suspicious strings, and heuristic indicators
+- 🤖 **ML Classification** — decision-tree modeling for malware classification, confidence estimation, and mitigation guidance
+- ⚡ **Production-Ready** — high-throughput FastAPI backend with async processing and Dockerized deployment
 
-### ✈️ [FlyRank — Multi-Attribute Flight Comparison Engine](https://github.com/Ravitej555/flyrank)
-> **Intelligent Traveler Utility Scoring Engine Moving Beyond Simple Price Sorting**
-> 
-> [![Repository](https://img.shields.io/badge/Repository-FlyRank-0e75b6?style=flat-square&logo=github)](https://github.com/Ravitej555/flyrank)
+`Python` `FastAPI` `Scikit-Learn` `Docker` `REST API`
 
-- **Multi-Factor Scoring:** Evaluates flights across price, total duration, layover friction, airline reliability, and environmental carbon impact.
-- **Dynamic Weight Adjustments:** Real-time client-side normalization allowing travelers to customize utility weights via interactive sliders.
-- *Tech Stack:* Next.js 15, React, TypeScript, Tailwind CSS.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ✈️ FlyRank
+> **Intelligent Multi-Attribute Flight Comparison Engine**
 
-### ✋ [VirtualSteering — Computer Vision Gesture Control](https://github.com/Ravitej555/hand-gesture)
+[![Repo](https://img.shields.io/badge/Repo-FlyRank-58A6FF?style=flat-square&logo=github)](https://github.com/Ravitej555/flyrank)
+
+- 📊 **Multi-Factor Scoring** — price, total duration, layover friction, airline reliability, and carbon impact
+- 🎚️ **Dynamic Weights** — real-time client-side normalization with interactive utility sliders
+
+`Next.js 15` `React` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### ✋ VirtualSteering
 > **Real-Time Hand Landmark Tracking & Gesture-Based System Control**
-> 
-> [![Repository](https://img.shields.io/badge/Repository-VirtualSteering-0e75b6?style=flat-square&logo=github)](https://github.com/Ravitej555/hand-gesture)
 
-- **Touchless Interaction:** Employs computer vision to track hand landmarks and map real-time gesture motions to system controls.
-- *Tech Stack:* Python, OpenCV, Computer Vision.
+[![Repo](https://img.shields.io/badge/Repo-VirtualSteering-58A6FF?style=flat-square&logo=github)](https://github.com/Ravitej555/hand-gesture)
+
+- 👁️ **Touchless Interaction** — computer vision tracks hand landmarks and maps gesture motions to system controls in real time
+
+`Python` `OpenCV` `Computer Vision`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,12 +146,13 @@ I am a software engineer focused on building robust full-stack applications, int
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ravitej555&show_icons=true&theme=tokyonight&hide_border=false" alt="Ravitej's GitHub Stats" height="175" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ravitej555&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ravitej555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=a371f7&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitej555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravitej555&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="175" />
+<img src="https://streak-stats.demolab.com/?user=Ravitej555&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=a371f7&currStreakLabel=58A6FF" height="175" alt="GitHub Streak" />
 
 </div>
 
@@ -127,10 +160,12 @@ I am a software engineer focused on building robust full-stack applications, int
 
 ## 🧭 Engineering Principles
 
-- **Build with Purpose** — Solve concrete problems with transparent, maintainable solutions.
-- **Visual Clarity & UX** — Turn complex data (3D geometry, ML risk factors) into intuitive experiences.
-- **Learn in Public** — Document architecture, trade-offs, and iterative improvements across all repositories.
-- **Security by Default** — Maintain zero-leak policy for credentials and build robust validation pipelines.
+| Principle | Description |
+|-----------|-------------|
+| **Build with Purpose** | Solve concrete problems with transparent, maintainable solutions |
+| **Visual Clarity & UX** | Turn complex data (3D geometry, ML risk factors) into intuitive experiences |
+| **Learn in Public** | Document architecture, trade-offs, and iterative improvements across all repositories |
+| **Security by Default** | Maintain zero-leak policy for credentials and build robust validation pipelines |
 
 ---
 
@@ -138,8 +173,9 @@ I am a software engineer focused on building robust full-stack applications, int
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ravitej555-181717?style=for-the-badge&logo=github)](https://github.com/Ravitej555)
-[![Projects](https://img.shields.io/badge/Explore-My%20Projects-0e75b6?style=for-the-badge&logo=github)](https://github.com/Ravitej555?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Ravitej555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravitej555)
+&nbsp;
+[![Projects](https://img.shields.io/badge/Explore-My%20Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravitej555?tab=repositories)
 
 </div>
 
@@ -147,7 +183,6 @@ I am a software engineer focused on building robust full-stack applications, int
 
 <div align="center">
 
-**Thanks for visiting my profile!**  
-*Building, learning, and improving—one project at a time.*
+*Thanks for visiting — building, learning, and improving one project at a time.* 🚀
 
 </div>
